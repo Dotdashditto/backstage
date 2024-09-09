@@ -19,7 +19,6 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
   tags: 
     - java
-    - dev
 spec:
   type: library
   owner: EEP
