@@ -20,6 +20,7 @@ metadata:
   tags: 
     - java
     - dev
+    - python
 spec:
   type: library
   owner: EEP
