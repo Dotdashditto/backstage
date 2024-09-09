@@ -20,5 +20,4 @@ metadata:
 spec:
   type: library
   owner: EEP
-  tags: dev, doc
   lifecycle: experimental
